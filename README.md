@@ -2,8 +2,8 @@
 A Next app that allows a user to browse through recipes from diffrent parts of the world
 
 ## Tech stack used
-NextJS 13
-API used to fetch recipes : https://www.themealdb.com/api.php
+###### NextJS 13
+###### API used to fetch recipes : https://www.themealdb.com/api.php
 
 ### My takeaways from the project
 ###### Server side rendering in Nextjs
